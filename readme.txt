@@ -18,4 +18,4 @@ Enqueues a stylesheet that adds Bootstrap styles to Gravity Forms forms.
 3. In Gravity Forms Settings, turn on \"Output HTML5\"
 
 == Changelog ==
-0.1 - Plugin Boom
+0.2 - Plugin Boom
