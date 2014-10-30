@@ -21,4 +21,8 @@ Enqueues a stylesheet that adds Bootstrap styles to Gravity Forms forms.
 3. In Gravity Forms Settings, turn on \"Output HTML5\"
 
 == Changelog ==
-0.1 - Plugin Boom
+= 0.2 =
+* Fixed validation container class to hide textbox, updated checkbox styles
+
+= 0.1 =
+* Plugin Boom
