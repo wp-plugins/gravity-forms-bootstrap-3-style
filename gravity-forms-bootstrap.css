@@ -11,10 +11,7 @@ Help from https://gist.githubusercontent.com/DevinWalker/7110951/raw/8f6863c52df
 
 .gform_wrapper .gfield_required { padding-left: 1px; color: #b94a48 }
 
-.ginput_container input[type="text"], .ginput_container select, .ginput_container textarea { display: block; width: 100%; height: 34px; padding: 6px 12px; font-size: 14px; line-height: 1.428571429; color: #555; vertical-align: middle; background-color: #fff; border: 1px solid #ccc; border-radius: 4px; -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075); box-shadow: inset 0 1px 1px rgba(0,0,0,0.075); -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s; transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s }
-.ginput_container input[type="checkbox"] {
-    margin-right: 5px;
-}
+.ginput_container input, .ginput_container select, .ginput_container textarea { display: block; width: 100%; height: 34px; padding: 6px 12px; font-size: 14px; line-height: 1.428571429; color: #555; vertical-align: middle; background-color: #fff; border: 1px solid #ccc; border-radius: 4px; -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075); box-shadow: inset 0 1px 1px rgba(0,0,0,0.075); -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s; transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s }
 .ginput_container input:-moz-placeholder, .ginput_container select:-moz-placeholder, .ginput_container textarea:-moz-placeholder {
     color:#999
 }
@@ -85,6 +82,7 @@ textarea.ginput_container input, textarea.ginput_container select, textarea.ginp
 .gfield_label { margin-bottom: 5px; font-size:  14px;}
 
 .ginput_complex > span > label { font-size: 11px; }
+
 
 .gform_validation_container,
 .gform_wrapper .gform_validation_container,
